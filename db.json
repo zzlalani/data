@@ -1,11 +1,37 @@
 {
-  "posts": [
+  "courses": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Object Oriented Programming"
+    },
+    {
+      "id": 2,
+      "title": "Database Management System"
+    },
+    {
+      "id": 3,
+      "title": "Data Structures"
+    },
+    {
+      "id": 4,
+      "title": "Object Oriented Analysis And Designs"
+    },
+    {
+      "id": 5,
+      "title": "Network Programming"
+    },
+    {
+      "id": 6,
+      "title": "Operating Systems"
+    },
+    {
+      "id": 7,
+      "title": "Web Application Development"
+    },
+    {
+      "id": 8,
+      "title": "Mobile Application Development"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    
+  ]
 }
