@@ -1,0 +1,24 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "title": "Household"
+    },
+    {
+      "id": 2,
+      "title": "Fitness & Gym"
+    },
+    {
+      "id": 3,
+      "title": "Studies"
+    },
+    {
+      "id": 4,
+      "title": "Work"
+    },
+    {
+      "id": 5,
+      "title": "Entertainment"
+    }   
+  ]
+}
